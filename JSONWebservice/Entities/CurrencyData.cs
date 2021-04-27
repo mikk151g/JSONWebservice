@@ -12,7 +12,18 @@ namespace Entities
 
         public class Rates
         {
+            #region Public Properties
 
+            public decimal AED { get; set; }
+            public decimal AFN { get; set; }
+            public decimal ALL { get; set; }
+            public decimal AMD { get; set; }
+            public decimal ANG { get; set; }
+            public decimal AOA { get; set; }
+            public decimal ARS { get; set; }
+            public decimal AUD { get; set; }
+
+            #endregion
         }
 
         public class Root
