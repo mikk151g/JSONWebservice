@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLaye
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{0A67F798-468E-442B-9A27-1825B5EE3255}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualTestProject", "ManualTestProject\ManualTestProject.csproj", "{3F53A89D-719C-4E03-B052-97443DCF4D59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A67F798-468E-442B-9A27-1825B5EE3255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A67F798-468E-442B-9A27-1825B5EE3255}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A67F798-468E-442B-9A27-1825B5EE3255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F53A89D-719C-4E03-B052-97443DCF4D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F53A89D-719C-4E03-B052-97443DCF4D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F53A89D-719C-4E03-B052-97443DCF4D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F53A89D-719C-4E03-B052-97443DCF4D59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
