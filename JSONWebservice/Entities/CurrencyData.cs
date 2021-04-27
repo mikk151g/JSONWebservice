@@ -10,6 +10,9 @@ namespace Entities
     {
         #region Classes
 
+        /// <summary>
+        /// Contains a lot of different rates for USD as base currency
+        /// </summary>
         public class Rates
         {
             #region Public Properties
