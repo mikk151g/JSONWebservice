@@ -34,7 +34,7 @@ namespace Entities
 
             #region Private Fields
 
-            private byte[] _timestamp;
+            private Int64 _timestamp;
             private string _base;
             private Rates _rates;
 
@@ -45,7 +45,7 @@ namespace Entities
             /// <summary>
             /// What time the rates is from
             /// </summary>
-            public byte[] Timestamp
+            public Int64 Timestamp
             {
                 get { return _timestamp; }
                 set { _timestamp = value; }
